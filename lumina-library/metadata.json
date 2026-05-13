@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Library",
+  "description": "A modern library management system for students and employees with search, book management, and role-based access.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": []
+}
